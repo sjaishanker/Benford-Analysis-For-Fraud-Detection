@@ -69,9 +69,8 @@ I followed the same methodogy as before, by firstly applying DCT(discrete cosine
 
 Well, as it is clear from the difference in distribution, Benford's Law was able to detect the tampered image.
 
-This all looks for fascinating, now one can easily differenciate between an original image and a tampered image. This can clearly help in the scenarios where there are chances of frauds w.r.t the identity of a person.
+This all looks fascinating, now one can easily differentiate between an original image and a tampered image. This can clearly help in the scenarios where there are chances of frauds w.r.t the identity of a person.
 
 ## CONCLUSIONS
 
 Benford's Law can be used for fraud detection in many fields. In this article, it was used to determine whether a cricketer was involved in match fixing or not, by analyzing his/her entire career scores and other features. After that, Benford's Law also helped in detecting tampered/modified images and distinguising it from the original one. These are some realtime applications that I thought would be useful.
-
